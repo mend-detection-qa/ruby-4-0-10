@@ -1,0 +1,9 @@
+{
+  "scanSettings": {
+    "configMode": "AUTO",
+    "versioning": {
+      "bundler": "2.6.9",
+      "ruby": "4.0.10"
+    }
+  }
+}
