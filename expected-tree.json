@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-11-19T00:00:00+00:00",
+  "packages": {
+    "json": {
+      "dependencies": [],
+      "editable": false,
+      "extras_activating_this": [],
+      "group": "main",
+      "hashes": [],
+      "marker": null,
+      "optional": false,
+      "source": "registry",
+      "source_detail": {
+        "remote": "https://rubygems.org/"
+      },
+      "version": "2.7.1"
+    },
+    "minitest": {
+      "dependencies": [],
+      "editable": false,
+      "extras_activating_this": [],
+      "group": "test",
+      "hashes": [],
+      "marker": null,
+      "optional": false,
+      "source": "registry",
+      "source_detail": {
+        "remote": "https://rubygems.org/"
+      },
+      "version": "5.25.1"
+    },
+    "rack": {
+      "dependencies": [],
+      "editable": false,
+      "extras_activating_this": [],
+      "group": "main",
+      "hashes": [],
+      "marker": null,
+      "optional": false,
+      "source": "registry",
+      "source_detail": {
+        "remote": "https://rubygems.org/"
+      },
+      "version": "3.1.7"
+    },
+    "rake": {
+      "dependencies": [],
+      "editable": false,
+      "extras_activating_this": [],
+      "group": "main",
+      "hashes": [],
+      "marker": null,
+      "optional": false,
+      "source": "registry",
+      "source_detail": {
+        "remote": "https://rubygems.org/"
+      },
+      "version": "13.2.1"
+    }
+  },
+  "pm": "bundler",
+  "pm_version_tested": "2.4",
+  "pm_version_under_test": "2.6.9",
+  "project_metadata": {
+    "bundler_version": "2.6.9",
+    "groups": [
+      "main",
+      "test"
+    ],
+    "optional_groups": [],
+    "platforms": [
+      "ruby",
+      "x86_64-linux"
+    ],
+    "ruby_version": "ruby 4.0.10p0"
+  },
+  "root": {
+    "dependencies": [
+      "json",
+      "minitest",
+      "rack",
+      "rake"
+    ],
+    "name": "bundled-pm-change-ruby-4-0-10",
+    "version": "0.0.0"
+  },
+  "schema_version": "1.2",
+  "source_file": "Gemfile.lock",
+  "warnings": []
+}
